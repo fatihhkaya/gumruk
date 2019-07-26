@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gumruk Vergi Hesaplama</string>
+    <string name="tab_text_1">Hesaplama</string>
+    <string name="tab_text_2">Sıkça Sorulanlar</string>
+
+    <string name="r_n_n_fiyat_n_giriniz">Ürünün Fiyatını Giriniz</string>
+    <string name="g_mr_k_vergisi_20">Gümrük Vergisi %20 =</string>
+    <string name="kdv_18">KDV %18 =</string>
+    <string name="tv_20">ÖTV %20 =</string>
+    <string name="toplam">Toplam =</string>
+    <string name="hesapla">HESAPLA</string>
+    <string name="kan_de_erler_yakla_k_tutard_r">Çıkan değerler yaklaşık tutardır.</string>
+    <string name="a_ma_kapama_creti">Açma-Kapama Ücreti=</string>
+    <string name="elektronik_r_n">Elektronik Ürün </string>
+</resources>

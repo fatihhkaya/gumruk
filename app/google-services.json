@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "598914700199",
+    "firebase_url": "https://gumrukvergihesaplama.firebaseio.com",
+    "project_id": "gumrukvergihesaplama",
+    "storage_bucket": "gumrukvergihesaplama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598914700199:android:e920e686f1d6206c",
+        "android_client_info": {
+          "package_name": "com.kayafatih.net.gumrukvergihesaplama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598914700199-t65clpb00qf0qkl1uiotq0rjtuj2e5fu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kayafatih.net.gumrukvergihesaplama",
+            "certificate_hash": "9d06db4afc4f5228cc44e37af2de4c5eef8014b5"
+          }
+        },
+        {
+          "client_id": "598914700199-89hvn0agq9gallngim45mqk94q41kqe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXwh2WVqbhDRQoFq1hlTA10lnkp1GnlDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598914700199-89hvn0agq9gallngim45mqk94q41kqe8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
