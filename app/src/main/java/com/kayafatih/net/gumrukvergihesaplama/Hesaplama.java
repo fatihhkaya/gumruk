@@ -107,7 +107,7 @@ public class Hesaplama extends Fragment {
 
 
 
-        cb.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+       /* cb.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
                 if(cb.isChecked())
